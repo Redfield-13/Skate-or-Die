@@ -1,0 +1,58 @@
+/******************************* Defaluts ***************************************/
+html{
+  overflow-x: hidden;
+}
+body{
+  overflow-x: hidden;
+}
+/******************************** Section-light **********************/
+.jumbotron{
+  text-align: center;
+   background: none;
+}
+.w-100{
+  width: 100%!important;
+  /* text-align: center; */
+  height: 100%!important;
+  /* margin-left: 50px; */
+}
+/* .carousel-item.active{
+  text-align: center;
+} */
+.carousel-inner{
+  width: 65%;
+  align-items: center;
+  text-align: center;
+  }
+div#main-cares.carousel.slide{
+    justify-content: center;
+    display: flex;
+}
+.container-fluid{
+  padding: 0;
+}
+div.col-sm-12.col-md-6{
+  text-align: center;
+  padding-left: 0px!important;
+  padding-right: 0px!important;
+  max-width: 100%;
+}
+div.col{
+  padding-left: 0px!important;
+  padding-right: 0px!important
+  max-width: 100%;
+  padding: 0 0 0 0;
+}
+.col-sm-12{
+  padding-left: 0px!important;
+  padding-right: 0px!important;
+  max-width: 100%;
+}
+
+
+
+.section-light{
+  background-color: #eceeef;
+  padding: 2em;
+}
+/********************************* section-Dark ******************************/

@@ -8,7 +8,7 @@ nav{
   width: 100%;
 }
 nav ul{
-  background-color:#110f0f;
+  background-color:#343a40;
   overflow: hidden;
   margin: 0;
   height: 40px;
@@ -32,4 +32,11 @@ ul.top-nav li a:hover{
   color: #666;
   background-color: white;
 
+}
+ul.top-nav li a.lim:hover{
+  color: white;
+  background-color: #343a40;
+}
+ul.top-nav li.right{
+  float: right;
 }
