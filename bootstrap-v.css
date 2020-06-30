@@ -39,7 +39,7 @@ div.col-sm-12.col-md-6{
 }
 div.col{
   padding-left: 0px!important;
-  padding-right: 0px!important
+  padding-right: 0px!important;
   max-width: 100%;
   padding: 0 0 0 0;
 }
@@ -56,3 +56,21 @@ div.col{
   padding: 2em;
 }
 /********************************* section-Dark ******************************/
+.section-dark{
+  background-color: #cccccc;
+  padding: 2rem;
+}
+/* #Skate{
+  width: 200px;
+
+} */
+.coolstuff{
+  margin-top: 20px;
+
+}
+button.cool{
+background-color: red;
+color: #ffffff;
+display: block;
+margin: auto;
+}
