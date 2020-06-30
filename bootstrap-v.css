@@ -47,6 +47,7 @@ div.col{
   padding-left: 0px!important;
   padding-right: 0px!important;
   max-width: 100%;
+  text-align: center;
 }
 
 
@@ -73,4 +74,23 @@ background-color: red;
 color: #ffffff;
 display: block;
 margin: auto;
+}
+h5.modal-title{
+  margin-left: auto;
+  /* text-align: center ; */
+}
+div.modal-body{
+  padding: 0%;
+}
+.modal-wrapper{
+  padding: 2rem 2rem 0 2rem;
+  text-align: left;
+}
+/******************************** Section-light **********************/
+.img-btn{
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  width: 35%;
 }
